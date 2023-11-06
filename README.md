@@ -1,2 +1,2 @@
 # genykurniawan.github.io
-Mine
+My Resume
